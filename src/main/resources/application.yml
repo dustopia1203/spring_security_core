@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring_security_core
+  datasource:
+    username: ${db.username}
+    password: ${db.password}
+    url: ${db.url}
